@@ -1,0 +1,129 @@
+body {
+    background-color: #dae1e7;
+    text-align: center;
+    margin: 0;
+}
+
+.top-cloud {
+    position: relative;
+    left: 150px;
+    margin-bottom: 0px;
+    height: 48px;
+    width: 150px;
+}
+
+.bottom-cloud {
+    position: relative;
+    height: 48px;
+    width: 150px;
+    top: 20%;
+    left: 5%%;
+}
+
+.mountain {
+    position: relative;
+    height: 500px;
+    width: 500px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 80px;
+    font-family: 'Sacramento', cursive;
+    color: #16817a;
+}
+
+hr {
+    margin: 20px auto 20px auto;
+    background-color: none;
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: #888888;
+    height: 0px;
+    width: 5%;
+}
+
+.intro,
+h2 {
+    font-family: 'Merriweather', serif;
+    font-size: 25px;
+    margin-block-start: 5px;
+    margin-block-end: 5px;
+    color: #16817a;
+}
+
+.skill-row {
+    width: 50% auto;
+    margin: 10px auto 10px auto;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
+
+.middle-container {
+    margin: 20px auto 20px auto;
+}
+
+.btn {
+    background: #40BAD5;
+    background-image: -webkit-linear-gradient(top, #40BAD5, #00909E);
+    background-image: -moz-linear-gradient(top, #40BAD5, #00909E);
+    background-image: -ms-linear-gradient(top, #40BAD5, #00909E);
+    background-image: -o-linear-gradient(top, #40BAD5, #00909E);
+    background-image: linear-gradient(to bottom, #40BAD5, #00909E);
+    -webkit-border-radius: 98px;
+    -moz-border-radius: 98px;
+    border-radius: 98px;
+    height: 10px;
+    line-height: 10px;
+    color: #FFFFFF;
+    font-family: 'Merriweather', serif;
+    width: 120px;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 22px;
+    text-shadow: -53px 1px 20px #0059A0;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+}
+
+.btn:hover {
+    border: solid #40BAD5 0px;
+    background: #3D94F6;
+    background-image: -webkit-linear-gradient(top, #3D94F6, #40BAD5);
+    background-image: -moz-linear-gradient(top, #3D94F6, #40BAD5);
+    background-image: -ms-linear-gradient(top, #3D94F6, #40BAD5);
+    background-image: -o-linear-gradient(top, #3D94F6, #40BAD5);
+    background-image: linear-gradient(to bottom, #3D94F6, #40BAD5);
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    border-radius: 100px;
+    text-decoration: none;
+}
+
+.bottom-container {
+    width: 100%;
+    background-color: #66bfbf;
+    padding: 15px 0 15px 0;
+}
+
+a {
+    color: #00909e;
+    margin: 10px 20px 10px 20px;
+    font-family: 'Merriweather', serif;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:hover {
+    color: #b9ebcc;
+}
+
+.cr {
+    color: #eaf6f6;
+    font-family: 'Merriweather', serif;
+}
