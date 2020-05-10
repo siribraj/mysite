@@ -6,24 +6,26 @@ body {
 
 .top-cloud {
     position: relative;
-    left: 150px;
+    left: 20%;
     margin-bottom: 0px;
-    height: 48px;
-    width: 150px;
+    height: 15%;
+    width: 20%;
 }
 
 .bottom-cloud {
     position: relative;
-    height: 48px;
-    width: 150px;
-    top: 20%;
-    left: 5%%;
+    right: 10%;
+    top: 40%;
+    height: 15%;
+    width: 20%;
 }
 
 .mountain {
+    text-align: center;
     position: relative;
-    height: 500px;
-    width: 500px;
+    right: 7%;
+    height: 30%;
+    width: 30%;
 }
 
 h1 {
